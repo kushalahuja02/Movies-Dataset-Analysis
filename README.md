@@ -17,7 +17,7 @@ This project aims to transform a raw dataset of over 45,000 movies into a struct
 
 ## Installation
 To replicate this analysis, follow these steps:
-1. Clone the GitHub repository: git clone [URL to your repository]
+1. Clone the GitHub repository: git clone (https://github.com/kushalahuja02/Movies-Dataset-Analysis-)
 2. Ensure SAS is installed on your system for running `.sas` scripts.
 
 ## Usage
